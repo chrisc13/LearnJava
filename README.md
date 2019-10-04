@@ -1,3 +1,2 @@
 # LearnJava
-init
-Andorid application that teaches user Java conepts
+Android application that teaches user Java conepts using fun games.
